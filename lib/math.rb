@@ -32,5 +32,5 @@ end
 def square_root(num)
 describe "square_root" do
   it "returns the square root of a number"
-   expect()
+   expect(square_root(81)).to eq(9)
 end
