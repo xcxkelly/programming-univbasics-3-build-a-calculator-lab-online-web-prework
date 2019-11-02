@@ -6,7 +6,7 @@ end
 
 def subtraction(num1, num2)
   describe"#subtraction" do
-    it "subtracts one number from another" do
+    it "subtracts two numbers from each other" do
       expect(subtract (10,3)).to eq(7)
 end
 
