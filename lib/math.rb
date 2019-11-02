@@ -1,7 +1,7 @@
 def addition(num1, num2)
 describe"#addition" do 
   it "adds two numbers together" do
-    expect(add 3,3))
+    expect(add (3,3)).to eq(6)
 end
 
 def subtraction(num1, num2)
