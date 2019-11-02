@@ -12,7 +12,7 @@ end
 
 def division(num1, num2)
   describe "#division" do
-    it "divides 
+    it "divides one number from the other"
 
 end
 
