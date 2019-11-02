@@ -5,10 +5,13 @@ describe"#addition" do
 end
 
 def subtraction(num1, num2)
-
+  describe"#subtraction" do
+    it "subtracts one number from another" do
+      expect(subtract (10,3)).to eq(7)
 end
 
 def division(num1, num2)
+  describe "#division "
 
 end
 
