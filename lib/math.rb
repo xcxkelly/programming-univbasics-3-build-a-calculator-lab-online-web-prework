@@ -1,6 +1,7 @@
 def addition(num1, num2)
 describe"#addition" do 
-  it "add two numbers together"
+  it "adds two numbers together" do
+    
 end
 
 def subtraction(num1, num2)
