@@ -26,10 +26,11 @@ end
 def modulo(num1, num2)
 describe "#modulo" do 
   it "#returns the remainder of two numbers"
-    expect()
-
+    expect(modulo (35,5)).to eq(4)
 end
 
 def square_root(num)
-
+describe "square_root" do
+  it "returns the square root of a number"
+   expect()
 end
